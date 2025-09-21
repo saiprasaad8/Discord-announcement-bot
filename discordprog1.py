@@ -77,4 +77,5 @@ async def rps(interaction: discord.Interaction, choice: str):
 
 
 # Run the bot
-bot.run("MTM1ODA1NDY4NzkxOTU3NTA5MA.GlsRD-.oiRmD1wDtQRilGFzbacNjHQSz4A96syJTtbVEY")
+
+bot.run("token_here")
